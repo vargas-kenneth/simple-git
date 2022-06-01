@@ -1,1 +1,1 @@
-alert("Hello World");
+console.log("Simple git v2");
